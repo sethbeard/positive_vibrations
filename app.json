@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "positive_vibrations",
+    "slug": "positive_vibrations",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "positive_vibrations"
+}
